@@ -24,14 +24,7 @@ R2 is VAIF'S new and improved redacted; revamped system. This system has been fu
 |Covid19 - Total Cases|<p>-</p>|`Dependent item`|covid19.data[TotalCases]<p>Update: 0</p>|
 |Covid19 - Total of Serious,Critical Cases|<p>-</p>|`Dependent item`|covid19.data[Serious]<p>Update: 0</p>|
 |Covid19 - Total of Deaths|<p>-</p>|`Dependent item`|covid19.data[TotalDeaths]<p>Update: 0</p>|
-|[ {#COUNTRY_NAME} | {#COUNTRY_IBAN} ] - TotalCases|<p>-</p>|`Calculated`|covid19.data["{#COUNTRY_NAME}", TotalCases]<p>Update: 30m</p><p>LLD</p>|
-|[ {#COUNTRY_NAME} | {#COUNTRY_IBAN} ] - ActiveCases|<p>-</p>|`Dependent item`|covid19.data["{#COUNTRY_NAME}", ActiveCases]<p>Update: 0</p><p>LLD</p>|
-|[ {#COUNTRY_NAME} | {#COUNTRY_IBAN} ] - Cases per Million habitants|<p>-</p>|`Dependent item`|covid19.data["{#COUNTRY_NAME}", CasesperMillion]<p>Update: 0</p><p>LLD</p>|
-|[ {#COUNTRY_NAME} | {#COUNTRY_IBAN} ] - NewCases|<p>-</p>|`Dependent item`|covid19.data[ "{#COUNTRY_NAME}", NewCases]<p>Update: 0</p><p>LLD</p>|
-|[ {#COUNTRY_NAME} | {#COUNTRY_IBAN} ] - NewDeaths|<p>-</p>|`Dependent item`|covid19.data["{#COUNTRY_NAME}", NewDeaths]<p>Update: 0</p><p>LLD</p>|
-|[ {#COUNTRY_NAME} | {#COUNTRY_IBAN} ] - Serious,Critical|<p>-</p>|`Dependent item`|covid19.data["{#COUNTRY_NAME}", Serious]<p>Update: 0</p><p>LLD</p>|
-|[ {#COUNTRY_NAME} | {#COUNTRY_IBAN} ] - TotalDeaths|<p>-</p>|`Dependent item`|covid19.data["{#COUNTRY_NAME}", TotalDeaths]<p>Update: 0</p><p>LLD</p>|
-|[ {#COUNTRY_NAME} | {#COUNTRY_IBAN} ] - TotalRecovered|<p>-</p>|`Dependent item`|covid19.data["{#COUNTRY_NAME}", TotalRecovered]<p>Update: 0</p><p>LLD</p>|
+
 
 
 ## Triggers
