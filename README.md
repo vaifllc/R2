@@ -15,7 +15,7 @@ R2 is VAIF'S new and improved redacted; revamped system. This system has been fu
 
 |Name|Description|Type|Key and additional info|
 |----|-----------|----|----|
-|Covid19 - Total of Active Cases|<p>-</p>|`Dependent item`|covid19.data[ActiveCases]<p>Update: 0</p>|
+|VAIF VPN - Total of Active Cases|<p>-</p>|`Dependent item`|covid19.data[ActiveCases]<p>Update: 0</p>|
 |Covid19 - Total of New Cases|<p>-</p>|`Dependent item`|covid19.data[NewCases]<p>Update: 0</p>|
 |Covid19 - Total Recovered|<p>-</p>|`Dependent item`|covid19.data[TotalRecovered]<p>Update: 0</p>|
 |Covid19 Full Info|<p>-</p>|`External check`|covid19_status.py<p>Update: 60m</p>|
@@ -25,9 +25,4 @@ R2 is VAIF'S new and improved redacted; revamped system. This system has been fu
 |Covid19 - Total of Serious,Critical Cases|<p>-</p>|`Dependent item`|covid19.data[Serious]<p>Update: 0</p>|
 |Covid19 - Total of Deaths|<p>-</p>|`Dependent item`|covid19.data[TotalDeaths]<p>Update: 0</p>|
 
-
-
-## Triggers
-
-There are no triggers in this template.
 
