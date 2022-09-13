@@ -14,22 +14,9 @@ R2 is VAIF'S new and improved redacted; revamped system. This system has been fu
 
 Michael Griffin, CEO
 
-## Macros used
-
-There are no macros links in this template.
-
-## Template links
-
-There are no template links in this template.
-
-## Discovery rules
-
-|Name|Description|Type|Key and additional info|
-|----|-----------|----|----|
-|Covid19 - Selected Countries|<p>-</p>|`External check`|covid19_affectedcountries.py<p>Update: 1h</p>|
 
 
-## Items collected
+## R2 Software Applications
 
 |Name|Description|Type|Key and additional info|
 |----|-----------|----|----|
