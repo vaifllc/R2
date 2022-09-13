@@ -10,11 +10,6 @@ Breaking down what R2 Actually is.
 R2 is VAIF'S new and improved redacted; revamped system. This system has been fully upgraded and updated including all API(s) to support the release of our new applications. This is a faster, smoother, and more secure system with 10x the processing power as before. This system was specifically designed to improve productivity and overall system performance. 
 
 
-## Author
-
-Michael Griffin, CEO
-
-
 
 ## R2 Software Applications
 
