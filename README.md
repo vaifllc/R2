@@ -15,9 +15,9 @@ R2 is VAIF'S new and improved redacted; revamped system. This system has been fu
 
 |Name|Description|Type|Status|
 |----|-----------|----|----|
-|VAIF VPN |<p>Decentralized Virtual Privacy Application</p>|`Multiplatform`|In development<p>Release date : N/A</p>|
+|VAIF VPN |<p>Decentralized Virtual Privacy Service</p>|`Multiplatform`|In development<p>Release date : N/A</p>|
 |VAIF Mail|<p>Decentralized Emailing Service</p>|`Multiplatform`|Development Not yet Started<p>Release date : N/A</p>|
-|VAIF Storage|<p>Decentralized Emailing Service</p>|`Web Only`|Development Delayed Until Further Notice<p>Release date : N/A</p>|
-|VAIF Chat|<p>Decentralized Emailing Service</p>|`Multiplatform`|Development Delayed Until Further Notice<p>Release date : N/A</p>|
+|VAIF Storage|<p>Decentralized Cloud Storage Service</p>|`Web Only`|Development Delayed Until Further Notice<p>Release date : N/A</p>|
+|VAIF Chat|<p>Decentralized Chat Based Messaging Platform</p>|`Multiplatform`|Development Delayed Until Further Notice<p>Release date : N/A</p>|
 
 
